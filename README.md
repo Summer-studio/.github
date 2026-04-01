@@ -1,5 +1,5 @@
 # summer-studio
-<img width="851" height="315" alt="Summer_studio" src="https://github.com/user-attachments/assets/37db1663-1bcb-4039-a623-e3c7ab53c13d" />
+<img width="851" height="315" alt="Summer_studio" src="https://github.com/user-attachments/assets/30bcd323-b28e-49e5-9346-0d29547d2dbf" />
 
 ## Overview
 MARV本サービスのサブコンテンツを開発するプロジェクト。
