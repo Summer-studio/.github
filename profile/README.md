@@ -1,12 +1,30 @@
-## Hi there 👋
+# summer-studio
+<img width="851" height="315" alt="Summer_studio" src="https://github.com/user-attachments/assets/30bcd323-b28e-49e5-9346-0d29547d2dbf" />
 
-<!--
+## Overview
+MARV本サービスのサブコンテンツを開発するプロジェクト。
 
-**Here are some ideas to get you started:**
+## Goal
+marvのコミュニティを活発化させる。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Scope
+- ミニゲーム
+- イベント機能
+- ソーシャル機能（予定）
+
+## Development Principles
+- プレイヤー中心設計（UX優先）
+- 安定性重視（バグ最小化）
+- シンプルで直感的なUI
+
+## Contents
+
+### War Craft（コンテンツ）
+
+- War HUB [🚧]
+- World War [🛠]
+
+## Roadmap
+- War HUB 
+- World War 
+
